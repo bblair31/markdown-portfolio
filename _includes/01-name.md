@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Brennan Blair
+  #### <i>Full Stack Developer | Software Engineer</i>
